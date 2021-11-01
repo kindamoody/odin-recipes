@@ -2,7 +2,6 @@ html {
     font-family: 'Helvetica', sans-serif;
     }
     
-    *{
-        background:linear-gradient(180deg,#fff, #7f62de);
-        height: 100vh;
+    body {
+        background:linear-gradient(180deg, #fff, #7f62de);
     }
